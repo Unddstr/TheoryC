@@ -1,4 +1,4 @@
-﻿//Сложение 2-х чисел
+﻿//Сложение 2-х чисел и интерполяция строк
 Console.Clear();
 Console.Write("Введите 1-е число: ");
 int n = int.Parse(Console.ReadLine()!);
