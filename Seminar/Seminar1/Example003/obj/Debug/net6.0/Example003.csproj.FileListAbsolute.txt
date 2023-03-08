@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\bin\Debug\net6.0\Example003.exe
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\bin\Debug\net6.0\Example003.deps.json
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\bin\Debug\net6.0\Example003.dll
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\bin\Debug\net6.0\Example003.pdb
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.dll
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\refint\Example003.dll
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.pdb
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\1 Четверть\3. Знакомство с языками программирования\LearnC\HomeWorkC\Example003\obj\Debug\net6.0\ref\Example003.dll
