@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\HomeWorkC\\Example002\\Example002.csproj": {}
+    "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\TheoryC\\Seminar\\Seminar1\\Example002\\Example002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\HomeWorkC\\Example002\\Example002.csproj": {
+    "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\TheoryC\\Seminar\\Seminar1\\Example002\\Example002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\HomeWorkC\\Example002\\Example002.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\TheoryC\\Seminar\\Seminar1\\Example002\\Example002.csproj",
         "projectName": "Example002",
-        "projectPath": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\HomeWorkC\\Example002\\Example002.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\TheoryC\\Seminar\\Seminar1\\Example002\\Example002.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\HomeWorkC\\Example002\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\GeekBrains\\1 Четверть\\3. Знакомство с языками программирования\\LearnC\\TheoryC\\Seminar\\Seminar1\\Example002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
