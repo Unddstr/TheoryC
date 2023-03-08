@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿//Сложение 2-х чисел
+Console.Clear();
 Console.Write("Введите 1-е число: ");
 int n = int.Parse(Console.ReadLine()!);
 Console.Write("Введите 2-е число: ");
